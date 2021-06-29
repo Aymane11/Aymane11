@@ -22,13 +22,13 @@
 <a href="https://github.com/Aymane11/SmartDoor">
 <img alt="SmartDoor" src="https://github-readme-stats.vercel.app/api/pin/?username=Aymane11&repo=SmartDoor&&theme=dark&hide_border=true">
 </a>
-
-<a href="https://github.com/Aymane11/handwriting-recognition">
-<img alt="handwriting-recognition" src="https://github-readme-stats.vercel.app/api/pin/?username=Aymane11&repo=handwriting-recognition&&theme=dark&hide_border=true">
-</a>
   
 <a href="https://github.com/Aymane11/weather">
 <img alt="weather "src="https://github-readme-stats.vercel.app/api/pin/?username=Aymane11&repo=weather&&theme=dark&hide_border=true">
+</a>
+
+<a href="https://github.com/Aymane11/handwriting-recognition">
+<img alt="handwriting-recognition" src="https://github-readme-stats.vercel.app/api/pin/?username=Aymane11&repo=handwriting-recognition&&theme=dark&hide_border=true">
 </a>
 
 <a href="https://github.com/Aymane11/url-shortener">
