@@ -27,6 +27,10 @@
 <img alt="weather "src="https://github-readme-stats.vercel.app/api/pin/?username=Aymane11&repo=weather&&theme=dark&hide_border=true">
 </a>
 
+<a href="https://github.com/Aymane11/spam-detector">
+<img alt="spam-detector "src="https://github-readme-stats.vercel.app/api/pin/?username=Aymane11&repo=spam-detector&&theme=dark&hide_border=true">
+</a>
+
 <a href="https://github.com/Aymane11/handwriting-recognition">
 <img alt="handwriting-recognition" src="https://github-readme-stats.vercel.app/api/pin/?username=Aymane11&repo=handwriting-recognition&&theme=dark&hide_border=true">
 </a>
