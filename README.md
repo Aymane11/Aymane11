@@ -38,6 +38,11 @@
 <a href="https://github.com/Aymane11/url-shortener">
 <img alt="url-shortener" src="https://github-readme-stats.vercel.app/api/pin/?username=Aymane11&repo=url-shortener&&theme=dark&hide_border=true">
 </a>
+
+<a href="https://github.com/Aymane11/spotify-manager">
+<img alt="spotify-manager" src="https://github-readme-stats.vercel.app/api/pin/?username=Aymane11&repo=spotify-manager&&theme=dark&hide_border=true">
+</a>
+
 </div><br>
 
 
