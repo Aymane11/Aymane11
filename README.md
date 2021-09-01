@@ -11,7 +11,7 @@
 
 ## ➜ ~ Languages I use
 
-##### I mainly code in Python (don't trust the stats)
+##### I mainly write code in Python
 <img alt="Python goes BRRRRRRRR" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aymane11&layout=compact&theme=dark&hide_border=true">
 
 
