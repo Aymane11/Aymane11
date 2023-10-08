@@ -46,7 +46,7 @@
 <summary><b>~ Get in touch :speech_balloon:</b></summary><br>
 
 -   **[Portfolio](https://www.enamya.me/)**
--   **[Blog](https://aymane11.github.io/)**
+-   **[Blog](https://blog.enamya.me/)**
 -   **[Email](mailto:aymaneboumaaza@gmail.com)**
 -   **[LinkedIn](https://www.linkedin.com/in/aymaneboumaaza/)**
 -   **[Twitter](https://twitter.com/_Enamya/)**
