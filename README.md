@@ -4,8 +4,8 @@
 
 ### ➜ ~ **whoami** :wave:
 
--   I am Aymane (AKA enamya), I'm interested in Data Science, Machine Learning, Deep Learning and Artificial Intelligence.
--   I'm open for collaborations in projects using Python 🐍.
+-   I am Aymane (AKA enamya), I'm interested in Data Science and Data Engineering topics.
+-   I am open for collaborations in projects (mainly using Python 🐍, but open for learning new things).
 
 </div>
 
