@@ -47,7 +47,6 @@
 
 -   **[Portfolio](https://www.enamya.me/)**
 -   **[Blog](https://blog.enamya.me/)**
--   **[Email](mailto:aymaneboumaaza@gmail.com)**
 -   **[LinkedIn](https://www.linkedin.com/in/aymaneboumaaza/)**
 -   **[Twitter](https://twitter.com/_Enamya/)**
 
